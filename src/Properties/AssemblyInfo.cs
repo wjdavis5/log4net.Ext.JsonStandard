@@ -25,11 +25,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("log4net.Ext.Json")]
-[assembly: AssemblyDescription("Enable JSON logging in log4net")]
+[assembly: AssemblyDescription("Enable JSON logging in log4net\r\n\r\nOriginal by :\r\nCopyright © Robert Sevcik 2014 /")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Robert Sevcik")]
+[assembly: AssemblyCompany("William Davis")]
 [assembly: AssemblyProduct("log4net.Ext.Json")]
-[assembly: AssemblyCopyright("Copyright © Robert Sevcik 2014")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
