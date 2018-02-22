@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27110.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.Ext.Json.1.2.13.vs2017.netstandard2.0", "log4net.Ext.Json.1.2.13.vs2017.netstandard2.0.csproj", "{1AD8E1E0-9172-4970-9D60-032D22FCFD40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.Ext.JsonStandard", "log4net.Ext.JsonStandard.csproj", "{1AD8E1E0-9172-4970-9D60-032D22FCFD40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
