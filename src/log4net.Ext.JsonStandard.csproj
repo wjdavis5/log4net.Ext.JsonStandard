@@ -17,6 +17,8 @@
     <Description>Original project - https://sourceforge.net/projects/log4net-json/
       This version is compiled against .NET Standard 2.0
       </Description>
+    <Title>log4net.Ext.JsonStandard</Title>
+    <Summary>Json Pattern Layout for log4net - .net standard 2.0</Summary>
 
   </PropertyGroup>
   <ItemGroup>
