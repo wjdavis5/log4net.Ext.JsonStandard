@@ -13,6 +13,10 @@
     <InformationalVersion></InformationalVersion>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>wjdavis5, robajz</Authors>
+    <Description>Original project - https://sourceforge.net/projects/log4net-json/
+      This version is compiled against .NET Standard 2.0
+      </Description>
 
   </PropertyGroup>
   <ItemGroup>
