@@ -4,7 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <RepositoryUrl>https://github.com/wjdavis5/log4net.Ext.JsonStandard</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/wjdavis5/log4net.Ext.JsonStandard</PackageProjectUrl>
     <PackageTags>log4net, json</PackageTags>
+    <PackageVersion></PackageVersion>
+    <Version></Version>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <InformationalVersion></InformationalVersion>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
