@@ -1,3 +1,7 @@
+Original project - https://sourceforge.net/projects/log4net-json/
+
+This version is compiled against .NET Standard 2.0
+
 Example
 -------
 
